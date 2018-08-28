@@ -1,2 +1,15 @@
 /* Move your styles here when you're ready to clean up your HTML file */
 /* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
+body {
+font-size: 14px;
+font-family: "Open Sans", sans-serif;
+}
+h1 {
+  font-size: 22px;
+}
+h2 {
+  font-size: 18px;
+}
+header{
+  border-bottom: 2px black solid;
+}
